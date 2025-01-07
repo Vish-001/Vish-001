@@ -27,9 +27,6 @@
 - 📫 How to reach me **vishalalpe20@gmail.com**
 
 - ⚡ Fun fact **I like Problem Solving & Music**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
